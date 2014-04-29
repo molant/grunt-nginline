@@ -1,6 +1,6 @@
 {
   "name": "grunt-nginline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes the content of templateUrl and puts it into template",
   "homepage": "https://github.com/molant/grunt-nginline",
   "repository": {
