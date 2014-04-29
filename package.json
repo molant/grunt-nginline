@@ -12,7 +12,7 @@
     "email": "amolleda@gmail.com"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin", "angular", "angularjs", "directive", "template", "templateUrl"
   ],
   "main": "Gruntfile.js",
   "engines": {
