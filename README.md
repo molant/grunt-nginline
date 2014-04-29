@@ -1,4 +1,4 @@
-# inline-angular-templates
+# grunt-nginline
 
 > Takes the content of templateUrl of a directive and puts it into the template property
 

@@ -1,11 +1,11 @@
 {
   "name": "grunt-nginline",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Takes the content of templateUrl and puts it into template",
-  "homepage": "https://github.com/molant/grunt-inline-angular-template",
+  "homepage": "https://github.com/molant/grunt-nginline",
   "repository": {
     "type": "git",
-    "url": "https://github.com/molant/grunt-inline-angular-template.git"
+    "url": "https://github.com/molant/grunt-nginline.git"
   },
   "author": {
     "name": "molant",
@@ -33,9 +33,6 @@
   },
   "peerDependencies": {
     "grunt": "~0.4.0"
-  },
-  "scripts": {
-    "test": "grunt inline-angular-templates"
   },
   "dependencies": {
     "html-minifier": "^0.5.6"
