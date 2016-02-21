@@ -12,7 +12,12 @@
     "email": "amolleda@gmail.com"
   },
   "keywords": [
-    "gruntplugin", "angular", "angularjs", "directive", "template", "templateUrl"
+    "gruntplugin",
+    "angular",
+    "angularjs",
+    "directive",
+    "template",
+    "templateUrl"
   ],
   "main": "Gruntfile.js",
   "engines": {
@@ -32,7 +37,7 @@
     "load-grunt-tasks": "~0.3.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "dependencies": {
     "html-minifier": "^0.5.6"
